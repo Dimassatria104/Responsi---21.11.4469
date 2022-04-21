@@ -1,0 +1,8 @@
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\obj\Debug\ResponsiPemrograman4469.csproj.AssemblyReference.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\obj\Debug\ResponsiPemrograman4469.csproj.SuggestedBindingRedirects.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\obj\Debug\ResponsiPemrograman4469.csproj.CoreCompileInputs.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\bin\Debug\ResponsiPemrograman4469.exe.config
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\bin\Debug\ResponsiPemrograman4469.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\bin\Debug\ResponsiPemrograman4469.pdb
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\obj\Debug\ResponsiPemrograman4469.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\ResponsiPemrograman4469\obj\Debug\ResponsiPemrograman4469.pdb
